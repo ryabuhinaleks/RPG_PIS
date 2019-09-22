@@ -1,0 +1,10 @@
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\obj\Debug\RPG.Form1.resources
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\dudin\Desktop\3 курс\ПИС\RPG\RPG\obj\Debug\RPG.pdb
